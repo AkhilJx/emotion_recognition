@@ -21,7 +21,7 @@ Future Work:
 Outline potential improvements or future additions to the project.
 
 Contributors:
-Inspired from a github repository
+Inspired from a github repository.
 Feel free to open issues for bug reports or feature requests.
 
 Enjoy exploring emotions with CNN!
